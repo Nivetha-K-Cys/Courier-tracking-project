@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\services\\shipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\services\\shipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\services\\shipmentstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\services\\shipmentstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\models\\shipmentstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\models\\shipmentstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|c:\\users\\niven\\source\\repos\\courier and shipment tracking system\\courier and shipment tracking system\\courier and shipment tracking system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EACBF9E-5A50-3C2D-849C-DFF6F59B9A20}|Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj|solutionrelative:courier and shipment tracking system\\courier and shipment tracking system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shipmentstatushistory.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Services\\shipmentstatushistory.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Services\\shipmentstatushistory.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Services\\shipmentstatushistory.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Services\\shipmentstatushistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:42:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipmentStatusHistory.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Models\\ShipmentStatusHistory.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Models\\ShipmentStatusHistory.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Models\\ShipmentStatusHistory.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Models\\ShipmentStatusHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:14:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:40:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shipmentService.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Services\\shipmentService.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Services\\shipmentService.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Services\\shipmentService.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Services\\shipmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:41:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courier and Shipment Tracking System.csproj",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Courier and Shipment Tracking System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T07:00:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Models\\Shipment.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Models\\Shipment.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Models\\Shipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:13:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Models\\Customer.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:13:16.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Program.cs",
+              "RelativeDocumentMoniker": "Courier and Shipment Tracking System\\Program.cs",
+              "ToolTip": "C:\\Users\\niven\\source\\repos\\Courier and Shipment Tracking System\\Courier and Shipment Tracking System\\Program.cs",
+              "RelativeToolTip": "Courier and Shipment Tracking System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:11:09.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
